@@ -4,11 +4,31 @@ repo: devmonitor # The name of this repository
 
 sites:
   - name: API DEV
-    url: https://www.api-dev.centro.network
+    url: https://api-dev.centro.network/swagger/index.html
   - name: Frontend DEV
-    url: https://www.dev.centro.network
+    url: https://dev.centro.network
   - name: App DEV
-    url: https://www.app-dev.centro.network
+    url: https://app-dev.centro.network
+
+  - name: API DEMO
+    url: https://api-demo.centro.network/swagger/index.html
+  - name: Frontend DEMO
+    url: https://demo.centro.network
+  - name: App DEMO
+    url: https://app-demo.centro.network
+
+  - name: API DEMO
+    url: https://api-demo.centro.network/swagger/index.html
+  - name: Frontend DEMO
+    url: https://demo.centro.network
+  - name: App DEMO
+    url: https://app-demo.centro.network
+
+
+  - name: ADMIN PANEL
+    url: https://admin.centro.network
+  - name: ADMIN STRAPI
+    url: https://strapi.centro.network
   # - name: Test Broken Site
   #   url: https://thissitedoesnotexist.koj.co
   # - name: IPv6 test
@@ -24,8 +44,8 @@ status-website:
   baseUrl: /devmonitor
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Upptime
-  introTitle: "**Centro** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  introTitle: "**Centro** Development Server Status."
+  introMessage: Centro Active Development Servers
   navbar:
     - title: Status
       href: /
