@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/api-dev.centro.network.ico",
     "slug": "api-dev",
     "status": "up",
-    "uptime": "74.53%",
-    "uptimeDay": "74.53%",
-    "uptimeWeek": "74.53%",
-    "uptimeMonth": "74.53%",
-    "uptimeYear": "74.53%",
+    "uptime": "79.50%",
+    "uptimeDay": "79.50%",
+    "uptimeWeek": "79.50%",
+    "uptimeMonth": "79.50%",
+    "uptimeYear": "79.50%",
     "time": 458,
     "timeDay": 458,
     "timeWeek": 458,
@@ -25,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev.centro.network.ico",
     "slug": "frontend-dev",
     "status": "up",
-    "uptime": "74.44%",
-    "uptimeDay": "74.44%",
-    "uptimeWeek": "74.44%",
-    "uptimeMonth": "74.44%",
-    "uptimeYear": "74.44%",
+    "uptime": "79.42%",
+    "uptimeDay": "79.42%",
+    "uptimeWeek": "79.42%",
+    "uptimeMonth": "79.42%",
+    "uptimeYear": "79.42%",
     "time": 1239,
     "timeDay": 1239,
     "timeWeek": 1239,
@@ -56,7 +56,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-08-21": 38
+      "2024-08-21": 47
     }
   },
   {
@@ -190,19 +190,19 @@
     "url": "https://strapi.centro.network",
     "icon": "https://icons.duckduckgo.com/ip3/strapi.centro.network.ico",
     "slug": "admin-strapi",
-    "status": "down",
-    "uptime": "99.70%",
-    "uptimeDay": "99.70%",
-    "uptimeWeek": "99.70%",
-    "uptimeMonth": "99.70%",
-    "uptimeYear": "99.70%",
-    "time": 416,
-    "timeDay": 416,
-    "timeWeek": 416,
-    "timeMonth": 416,
-    "timeYear": 416,
+    "status": "up",
+    "uptime": "75.29%",
+    "uptimeDay": "75.29%",
+    "uptimeWeek": "75.29%",
+    "uptimeMonth": "75.29%",
+    "uptimeYear": "75.29%",
+    "time": 419,
+    "timeDay": 419,
+    "timeWeek": 419,
+    "timeMonth": 419,
+    "timeYear": 419,
     "dailyMinutesDown": {
-      "2024-08-21": 0
+      "2024-08-21": 9
     }
   }
 ]
