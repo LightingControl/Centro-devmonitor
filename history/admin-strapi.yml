@@ -1,7 +1,7 @@
 url: https://strapi.centro.network
-status: up
-code: 200
-responseTime: 488
-lastUpdated: 2024-08-27T23:00:54.576Z
+status: down
+code: 502
+responseTime: 522
+lastUpdated: 2024-08-28T10:33:56.355Z
 startTime: 2024-08-21T08:24:33.905Z
 generator: Upptime <https://github.com/upptime/upptime>
