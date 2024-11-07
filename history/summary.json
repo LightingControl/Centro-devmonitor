@@ -123,15 +123,15 @@
     "url": "https://api-demo.centro.network/swagger/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/api-demo.centro.network.ico",
     "slug": "api-demo",
-    "status": "up",
-    "uptime": "74.12%",
-    "uptimeDay": "58.96%",
-    "uptimeWeek": "24.66%",
+    "status": "down",
+    "uptime": "74.14%",
+    "uptimeDay": "60.15%",
+    "uptimeWeek": "24.71%",
     "uptimeMonth": "35.75%",
-    "uptimeYear": "74.12%",
+    "uptimeYear": "74.14%",
     "time": 451,
-    "timeDay": 463,
-    "timeWeek": 494,
+    "timeDay": 464,
+    "timeWeek": 490,
     "timeMonth": 502,
     "timeYear": 451,
     "dailyMinutesDown": {
@@ -181,8 +181,7 @@
       "2024-09-23": 47,
       "2024-09-22": 9,
       "2024-09-21": 12,
-      "2024-09-18": 6,
-      "2024-09-11": 10
+      "2024-09-18": 6
     }
   },
   {
@@ -300,15 +299,15 @@
     "url": "https://api-demo.centro.network/swagger/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/api-demo.centro.network.ico",
     "slug": "api-demo",
-    "status": "up",
-    "uptime": "74.12%",
-    "uptimeDay": "58.96%",
-    "uptimeWeek": "24.66%",
+    "status": "down",
+    "uptime": "74.14%",
+    "uptimeDay": "60.15%",
+    "uptimeWeek": "24.71%",
     "uptimeMonth": "35.75%",
-    "uptimeYear": "74.12%",
+    "uptimeYear": "74.14%",
     "time": 451,
-    "timeDay": 463,
-    "timeWeek": 494,
+    "timeDay": 464,
+    "timeWeek": 490,
     "timeMonth": 502,
     "timeYear": 451,
     "dailyMinutesDown": {
@@ -358,8 +357,7 @@
       "2024-09-23": 47,
       "2024-09-22": 9,
       "2024-09-21": 12,
-      "2024-09-18": 6,
-      "2024-09-11": 10
+      "2024-09-18": 6
     }
   },
   {
