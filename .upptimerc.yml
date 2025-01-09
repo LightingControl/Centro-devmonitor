@@ -10,12 +10,12 @@ sites:
   - name: App DEV
     url: https://app-dev.centro.network
 
-  - name: API DEMO
-    url: https://api-demo.centro.network/swagger/index.html
-  - name: Frontend DEMO
-    url: https://demo.centro.network
-  - name: App DEMO
-    url: https://app-demo.centro.network
+  - name: API STAGE
+    url: https://api-stage.centro.network/swagger/index.html
+  - name: Frontend STAGE
+    url: https://stage.centro.network
+  - name: App STAGE
+    url: https://app-stage.centro.network
 
   - name: API DEMO
     url: https://api-demo.centro.network/swagger/index.html
@@ -29,6 +29,10 @@ sites:
     url: https://admin.centro.network
   - name: ADMIN STRAPI
     url: https://strapi.centro.network
+  - name: WEBSITE 
+    url: https://cms.centro.network
+  - name: WEBSITE CMS
+    url: https://centro.network
   # - name: Test Broken Site
   #   url: https://thissitedoesnotexist.koj.co
   # - name: IPv6 test
