@@ -17,18 +17,16 @@ sites:
   - name: App STAGE
     url: https://app-stage.centro.network
 
-  - name: API DEMO
-    url: https://api-demo.centro.network/swagger/index.html
-  - name: Frontend DEMO
-    url: https://demo.centro.network
-  - name: App DEMO
-    url: https://app-demo.centro.network
+  
 
 
   - name: ADMIN PANEL
     url: https://admin.centro.network
-  - name: ADMIN STRAPI
+  
+  - name: ADMIN Licence and Translations
     url: https://strapi.centro.network
+  
+  
   - name: WEBSITE 
     url: https://cms.centro.network
   - name: WEBSITE CMS
