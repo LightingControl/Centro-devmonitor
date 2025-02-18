@@ -172,19 +172,19 @@
     "url": "https://api-stage.centro.network/swagger/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/api-stage.centro.network.ico",
     "slug": "api-stage",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 882,
-    "timeDay": 8186,
-    "timeWeek": 2425,
-    "timeMonth": 1041,
-    "timeYear": 882,
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "97.65%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.94%",
+    "time": 875,
+    "timeDay": 5667,
+    "timeWeek": 2225,
+    "timeMonth": 1026,
+    "timeYear": 875,
     "dailyMinutesDown": {
-      "2025-02-18": 0
+      "2025-02-18": 34
     }
   },
   {
