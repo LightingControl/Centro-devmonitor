@@ -1,7 +1,7 @@
 url: https://api-dev.centro.network/swagger/index.html
-status: down
-code: 502
-responseTime: 401
-lastUpdated: 2025-03-18T09:54:56.826Z
+status: up
+code: 200
+responseTime: 493
+lastUpdated: 2025-03-18T10:06:24.531Z
 startTime: 2024-08-21T08:14:30.631Z
 generator: Upptime <https://github.com/upptime/upptime>
