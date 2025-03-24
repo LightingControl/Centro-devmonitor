@@ -1,7 +1,7 @@
 url: https://dev.centro.network
-status: up
-code: 200
-responseTime: 2060
-lastUpdated: 2025-03-23T23:00:34.175Z
+status: down
+code: 502
+responseTime: 470
+lastUpdated: 2025-03-24T14:32:03.426Z
 startTime: 2024-08-21T08:14:31.772Z
 generator: Upptime <https://github.com/upptime/upptime>
