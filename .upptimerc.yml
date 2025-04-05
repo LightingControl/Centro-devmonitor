@@ -6,14 +6,14 @@ sites:
   - name: API DEV
     url: https://api-dev.centro.network/swagger/index.html
   - name: Frontend DEV
-    url: https://dev.centro.network
+    url: https://dev.centro.network/api/health
   - name: App DEV
     url: https://app-dev.centro.network
 
   - name: API STAGE
     url: https://api-stage.centro.network/swagger/index.html
   - name: Frontend STAGE
-    url: https://stage.centro.network
+    url: https://stage.centro.network/api/health
   - name: App STAGE
     url: https://app-stage.centro.network
 
