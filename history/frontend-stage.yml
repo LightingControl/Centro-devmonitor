@@ -1,7 +1,7 @@
 url: https://stage.centro.network/api/health
-status: up
-code: 200
-responseTime: 414
-lastUpdated: 2025-06-02T23:00:30.791Z
+status: down
+code: 502
+responseTime: 393
+lastUpdated: 2025-06-03T09:10:06.972Z
 startTime: 2025-01-09T18:11:46.980Z
 generator: Upptime <https://github.com/upptime/upptime>
