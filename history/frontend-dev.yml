@@ -1,7 +1,7 @@
 url: https://dev.centro.network/api/health
-status: down
-code: 502
-responseTime: 641
-lastUpdated: 2025-08-25T15:51:26.137Z
+status: up
+code: 200
+responseTime: 603
+lastUpdated: 2025-08-25T15:59:57.624Z
 startTime: 2024-08-21T08:14:31.772Z
 generator: Upptime <https://github.com/upptime/upptime>
