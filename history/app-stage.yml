@@ -1,7 +1,7 @@
 url: https://app-stage.centro.network
-status: up
-code: 200
-responseTime: 563
-lastUpdated: 2025-09-30T23:01:16.154Z
+status: down
+code: 503
+responseTime: 842
+lastUpdated: 2025-10-01T05:34:39.645Z
 startTime: 2025-01-09T18:11:47.973Z
 generator: Upptime <https://github.com/upptime/upptime>
