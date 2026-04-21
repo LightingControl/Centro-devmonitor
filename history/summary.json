@@ -4,18 +4,19 @@
     "url": "https://api-dev.centro.network/swagger/index.html",
     "icon": "https://icons.duckduckgo.com/ip3/api-dev.centro.network.ico",
     "slug": "api-dev",
-    "status": "up",
+    "status": "down",
     "uptime": "99.28%",
-    "uptimeDay": "89.40%",
+    "uptimeDay": "89.38%",
     "uptimeWeek": "98.16%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "98.79%",
     "time": 596,
-    "timeDay": 1206,
-    "timeWeek": 731,
-    "timeMonth": 637,
+    "timeDay": 1073,
+    "timeWeek": 717,
+    "timeMonth": 634,
     "timeYear": 591,
     "dailyMinutesDown": {
+      "2026-04-21": 0,
       "2026-04-20": 153,
       "2026-04-17": 33,
       "2026-04-08": 18,
@@ -87,8 +88,7 @@
       "2025-05-06": 14,
       "2025-05-02": 9,
       "2025-04-30": 11,
-      "2025-04-24": 41,
-      "2025-04-22": 9
+      "2025-04-24": 41
     }
   },
   {
@@ -149,7 +149,7 @@
     "status": "up",
     "uptime": "96.93%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "52.05%",
+    "uptimeWeek": "56.85%",
     "uptimeMonth": "57.26%",
     "uptimeYear": "94.96%",
     "time": 566,
