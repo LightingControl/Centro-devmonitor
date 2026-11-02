@@ -39,7 +39,7 @@
       "2026-04-21": 259,
       "2026-04-30": 41,
       "2026-05-05": 53,
-      "2026-11-02": 816,
+      "2026-11-02": 825,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
       "2026-10-30": 1440,
@@ -214,16 +214,16 @@
     "url": "https://dev.centro.network/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/dev.centro.network.ico",
     "slug": "frontend-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.24%",
-    "uptimeMonth": "99.55%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.53%",
     "uptimeYear": "99.72%",
     "time": 637,
-    "timeDay": 365,
-    "timeWeek": 501,
-    "timeMonth": 523,
+    "timeDay": 446,
+    "timeWeek": 509,
+    "timeMonth": 524,
     "timeYear": 669,
     "dailyMinutesDown": {
       "2025-11-10": 142,
@@ -248,7 +248,7 @@
       "2026-10-22": 19,
       "2026-10-26": 57,
       "2026-10-28": 19,
-      "2026-11-02": 1
+      "2026-11-02": 8
     }
   },
   {
@@ -256,16 +256,16 @@
     "url": "https://app-dev.centro.network",
     "icon": "https://icons.duckduckgo.com/ip3/app-dev.centro.network.ico",
     "slug": "app-dev",
-    "status": "down",
+    "status": "up",
     "uptime": "97.76%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "99.62%",
-    "uptimeMonth": "99.18%",
+    "uptimeDay": "99.42%",
+    "uptimeWeek": "99.55%",
+    "uptimeMonth": "99.17%",
     "uptimeYear": "95.11%",
     "time": 595,
-    "timeDay": 555,
-    "timeWeek": 601,
-    "timeMonth": 602,
+    "timeDay": 597,
+    "timeWeek": 612,
+    "timeMonth": 605,
     "timeYear": 604,
     "dailyMinutesDown": {
       "2025-11-04": 11,
@@ -344,7 +344,7 @@
       "2026-10-22": 39,
       "2026-10-28": 19,
       "2026-10-30": 19,
-      "2026-11-02": 1
+      "2026-11-02": 8
     }
   },
   {
@@ -388,7 +388,7 @@
       "2026-04-22": 27,
       "2026-04-23": 43,
       "2026-05-11": 69,
-      "2026-11-02": 817,
+      "2026-11-02": 825,
       "2026-11-01": 1440,
       "2026-10-31": 1440,
       "2026-10-30": 1440,
