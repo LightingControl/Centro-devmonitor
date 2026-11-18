@@ -9,7 +9,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "49.64%",
+    "uptimeYear": "49.63%",
     "time": 551,
     "timeDay": 239,
     "timeWeek": 390,
@@ -36,7 +36,7 @@
       "2026-04-21": 259,
       "2026-04-30": 41,
       "2026-05-05": 53,
-      "2026-11-18": 581,
+      "2026-11-18": 590,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
@@ -229,9 +229,9 @@
     "slug": "frontend-dev",
     "status": "down",
     "uptime": "99.72%",
-    "uptimeDay": "98.92%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.70%",
+    "uptimeDay": "98.29%",
+    "uptimeWeek": "99.76%",
+    "uptimeMonth": "99.68%",
     "uptimeYear": "99.90%",
     "time": 699,
     "timeDay": 19802,
@@ -258,7 +258,7 @@
       "2026-10-22": 19,
       "2026-10-26": 57,
       "2026-10-28": 19,
-      "2026-11-18": 16
+      "2026-11-18": 25
     }
   },
   {
@@ -268,9 +268,9 @@
     "slug": "app-dev",
     "status": "down",
     "uptime": "97.80%",
-    "uptimeDay": "99.07%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.45%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "99.78%",
+    "uptimeMonth": "99.43%",
     "uptimeYear": "95.29%",
     "time": 654,
     "timeDay": 19758,
@@ -352,7 +352,7 @@
       "2026-10-30": 19,
       "2026-11-02": 27,
       "2026-11-04": 20,
-      "2026-11-18": 13
+      "2026-11-18": 22
     }
   },
   {
@@ -392,7 +392,7 @@
       "2026-04-22": 27,
       "2026-04-23": 43,
       "2026-05-11": 69,
-      "2026-11-18": 581,
+      "2026-11-18": 590,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
@@ -580,16 +580,16 @@
     "url": "https://stage.centro.network/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/stage.centro.network.ico",
     "slug": "frontend-stage",
-    "status": "down",
+    "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "99.36%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.94%",
+    "uptimeDay": "98.87%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.93%",
     "time": 603,
-    "timeDay": 20024,
-    "timeWeek": 5390,
-    "timeMonth": 1538,
+    "timeDay": 13597,
+    "timeWeek": 4873,
+    "timeMonth": 1518,
     "timeYear": 622,
     "dailyMinutesDown": {
       "2025-12-03": 8,
@@ -600,7 +600,7 @@
       "2026-07-17": 35,
       "2026-07-22": 47,
       "2026-10-26": 28,
-      "2026-11-18": 9
+      "2026-11-18": 16
     }
   },
   {
@@ -610,9 +610,9 @@
     "slug": "app-stage",
     "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "98.89%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.89%",
     "time": 646,
     "timeDay": 19974,
@@ -634,7 +634,7 @@
       "2026-07-17": 35,
       "2026-07-22": 47,
       "2026-08-24": 24,
-      "2026-11-18": 7
+      "2026-11-18": 16
     }
   },
   {
@@ -646,7 +646,7 @@
     "uptime": "98.55%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "63.84%",
+    "uptimeMonth": "63.82%",
     "uptimeYear": "96.93%",
     "time": 1589,
     "timeDay": 19699,
@@ -658,7 +658,7 @@
       "2026-04-20": 76,
       "2026-04-30": 39,
       "2026-05-22": 75,
-      "2026-11-18": 581,
+      "2026-11-18": 590,
       "2026-11-17": 1440,
       "2026-11-16": 1440,
       "2026-11-15": 1440,
@@ -677,21 +677,21 @@
     "url": "https://strapi.centro.network",
     "icon": "https://icons.duckduckgo.com/ip3/strapi.centro.network.ico",
     "slug": "admin-licence-and-translations",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "98.16%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "97.58%",
+    "uptimeWeek": "99.65%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
     "time": 598,
-    "timeDay": 19770,
-    "timeWeek": 5331,
-    "timeMonth": 1718,
+    "timeDay": 13383,
+    "timeWeek": 4806,
+    "timeMonth": 1685,
     "timeYear": 611,
     "dailyMinutesDown": {
       "2026-04-16": 36,
       "2026-04-20": 25,
-      "2026-11-18": 26
+      "2026-11-18": 35
     }
   },
   {
@@ -699,22 +699,22 @@
     "url": "https://cms.centro.network",
     "icon": "https://icons.duckduckgo.com/ip3/cms.centro.network.ico",
     "slug": "website",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "98.25%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "97.66%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "99.96%",
     "time": 821,
-    "timeDay": 10265,
-    "timeWeek": 3272,
-    "timeMonth": 1527,
-    "timeYear": 889,
+    "timeDay": 7104,
+    "timeWeek": 2995,
+    "timeMonth": 1504,
+    "timeYear": 888,
     "dailyMinutesDown": {
       "2026-01-17": 8,
       "2026-01-28": 18,
       "2026-04-09": 32,
-      "2026-11-18": 25
+      "2026-11-18": 34
     }
   },
   {
@@ -722,24 +722,24 @@
     "url": "https://centro.network",
     "icon": "https://icons.duckduckgo.com/ip3/centro.network.ico",
     "slug": "website-cms",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "98.39%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.94%",
-    "time": 1216,
-    "timeDay": 20094,
-    "timeWeek": 4928,
-    "timeMonth": 2384,
-    "timeYear": 1342,
+    "uptimeDay": "97.80%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.93%",
+    "time": 1218,
+    "timeDay": 13871,
+    "timeWeek": 4610,
+    "timeMonth": 2359,
+    "timeYear": 1343,
     "dailyMinutesDown": {
       "2025-12-10": 30,
       "2026-01-28": 29,
       "2026-02-25": 17,
       "2026-04-30": 38,
       "2026-06-27": 65,
-      "2026-11-18": 23
+      "2026-11-18": 32
     }
   }
 ]
